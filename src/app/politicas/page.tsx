@@ -47,7 +47,7 @@ export default function PoliticasPage() {
           </section>
           <section>
             <h2 className="display text-3xl uppercase text-navy">6. Tus derechos</h2>
-            <p className="mt-4">Puedes solicitar acceso, corrección o eliminación de tus datos, así como retirar determinados permisos, escribiéndonos a <a className="font-semibold text-navy underline decoration-gold underline-offset-4" href="mailto:soporte@elcamerino.app">soporte@elcamerino.app</a>. Para proteger tu cuenta, podremos pedir información adicional para verificar tu identidad. Los pasos para eliminar la cuenta, los datos que borramos y los que conservamos están en la página de <Link href="/eliminar-cuenta" className="font-semibold text-navy underline decoration-gold underline-offset-4">eliminación de cuenta</Link>.</p>
+            <p className="mt-4">Puedes solicitar acceso, corrección o eliminación de tus datos, así como retirar determinados permisos, escribiéndonos a <a className="font-semibold text-navy underline decoration-gold underline-offset-4" href="mailto:galuapps@gmail.com">galuapps@gmail.com</a>. Para proteger tu cuenta, podremos pedir información adicional para verificar tu identidad. Los pasos para eliminar la cuenta, los datos que borramos y los que conservamos están en la página de <Link href="/eliminar-cuenta" className="font-semibold text-navy underline decoration-gold underline-offset-4">eliminación de cuenta</Link>.</p>
           </section>
           <section>
             <h2 className="display text-3xl uppercase text-navy">7. Menores de edad</h2>
@@ -63,7 +63,7 @@ export default function PoliticasPage() {
           </section>
           <section>
             <h2 className="display text-3xl uppercase text-navy">10. Cambios y contacto</h2>
-            <p className="mt-4">Podemos actualizar estas políticas para reflejar cambios legales o del servicio. Publicaremos la versión vigente en esta página e indicaremos la fecha de actualización. Si tienes preguntas sobre privacidad, términos o eliminación de cuenta, escríbenos a <a className="font-semibold text-navy underline decoration-gold underline-offset-4" href="mailto:soporte@elcamerino.app">soporte@elcamerino.app</a>.</p>
+            <p className="mt-4">Podemos actualizar estas políticas para reflejar cambios legales o del servicio. Publicaremos la versión vigente en esta página e indicaremos la fecha de actualización. Si tienes preguntas sobre privacidad, términos o eliminación de cuenta, escríbenos a <a className="font-semibold text-navy underline decoration-gold underline-offset-4" href="mailto:galuapps@gmail.com">galuapps@gmail.com</a>.</p>
           </section>
         </div>
       </article>

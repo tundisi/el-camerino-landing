@@ -31,7 +31,7 @@ export default function EliminarCuentaPage() {
 
         <a
           href={mailto}
-          className="mt-8 inline-flex rounded-full bg-navy px-6 py-3 font-bold text-cream hover:bg-navy2"
+          className="mt-8 inline-flex rounded-full bg-navy px-6 py-3 font-bold !text-cream hover:bg-navy2"
         >
           Enviar solicitud por correo
         </a>
